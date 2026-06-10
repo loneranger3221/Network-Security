@@ -4,4 +4,6 @@ scikit-learn
 xgboost
 fastapi
 python-dotenv
--e .
+pymongo
+certifi
+#-e .
