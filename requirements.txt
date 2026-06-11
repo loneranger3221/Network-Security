@@ -6,4 +6,5 @@ fastapi
 python-dotenv
 pymongo
 certifi
+pymongo[srv]
 #-e .
